@@ -43,5 +43,5 @@
 ---
 
 <p align="center" style="color:#888;">
-  Thanks for visiting my profile 💚
+  Thanks for visiting my profile 
 </p>
