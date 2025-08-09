@@ -11,4 +11,4 @@
 - 😄 Pronouns: guitar player
 - ⚡ Fun fact: every 60 secs passed on brazil a minute passes on africa
 -->
-](url)
+
