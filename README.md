@@ -28,18 +28,18 @@
 <h2 style="color:#2196F3;">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Top langs" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=JotaComp1&show_icons=true&theme=radical" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaComp1&layout=compact&theme=radical" alt="Top langs" height="160">
 </p>
 
 <h2 style="color:#2196F3;">✨ Curiosities</h2>
 
 - 🧠 Love software developing!
-- 🎮 Musician in the spare time!
+- 🎮 Musician on the spare time!
 - 📌 Always looking for something new to do!!
 
 ---
 
 <p align="center" style="color:#888;">
-  Thanks! 💚
+  Thanks! 
 </p>
