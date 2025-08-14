@@ -19,10 +19,10 @@
   <li>📚 Learning: <strong>Problem Solving & Logic</strong></li>
 </ul>
 
-<h2 style="color:#2196F3;">🧰 Technologies I Use And Want To Use</h2>
+<h2 style="color:#2196F3;">🧰 Technologies I Use</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github" alt="Tech Stack"/>
 </p>
 
 <h2 style="color:#2196F3;">📊 GitHub Stats</h2>
