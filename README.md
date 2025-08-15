@@ -35,9 +35,9 @@
 <h2 style="color:#2196F3;">😎 Fun Facts</h2>
 
 <ul style="color:#444; font-size:16px;">
-  <li>🧠 I love software development!</li>
+  <li>🧠 I love software development.</li>
   <li>🎵 I'm also a musician in my free time.</li>
-  <li>🚀 Always looking to learn something new!</li>
+  <li>🚀 Always looking to learn something new.</li>
 </ul>
 
 ---
