@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaComp1&layout=compact&theme=radical" alt="Top languages" height="160">
 </p>
 
-<h2 style="color:#2196F3;">✨ Fun Facts</h2>
+<h2 style="color:#2196F3;">😎 Fun Facts</h2>
 
 <ul style="color:#444; font-size:16px;">
   <li>🧠 I love software development!</li>
