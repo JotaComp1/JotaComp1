@@ -44,5 +44,4 @@
 
 <p align="center" style="color:#888;">
   Thanks for visiting my profile!
-  For a while my repositorys will be private, but soon enough i will turn them public
 </p>
