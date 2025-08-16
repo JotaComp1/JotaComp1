@@ -31,6 +31,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JotaComp1&show_icons=true&theme=radical" alt="GitHub stats" height="160">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaComp1&layout=compact&theme=radical" alt="Top languages" height="160">
 </p>
+<h2 style="color:#2196F3;">📊 Projects</h2>
+
+<p align="center">
+ My only project(for now) - [POOkemon](https://github.com/JotaComp1/POOkemon)
+</p>
 
 <h2 style="color:#2196F3;">😎 Fun Facts</h2>
 
@@ -42,11 +47,7 @@
 
 
 ---
-<h2 style="color:#2196F3;">📊 Projects</h2>
-<p align="center">
- My only project(for now) - [POOkemon](https://github.com/JotaComp1/POOkemon)
-</p>
----
+
 
 
 <p align="center" style="color:#888;">
