@@ -34,7 +34,7 @@
 <h2 style="color:#2196F3;">📊 Projects</h2>
 
 <p align="center">
- My only project(for now) - [POOkemon](https://github.com/JotaComp1/POOkemon)
+ My only project( for now ) - <strong>[POOkemon](https://github.com/JotaComp1/POOkemon)
 </p>
 
 <h2 style="color:#2196F3;">😎 Fun Facts</h2>
