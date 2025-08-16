@@ -40,7 +40,12 @@
   <li>🚀 Always looking to learn something new.</li>
 </ul>
 
+https://github.com/JotaComp1/POOkemon
 ---
+<h2 style="color:#2196F3;">📊 Projects</h2>
+<p align="center">
+  - [POOkemon](https://github.com/JotaComp1/POOkemon)
+</p>
 
 <p align="center" style="color:#888;">
   Thanks for visiting my profile!
