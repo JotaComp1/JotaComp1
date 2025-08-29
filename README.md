@@ -22,7 +22,7 @@
 <h2 style="color:#2196F3;">🧰 Technologies I Use</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,java,html,css,js,linux,c" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,java" alt="Tech Stack"/>
 </p>
 
 <h2 style="color:#2196F3;">📊 GitHub Stats</h2>
